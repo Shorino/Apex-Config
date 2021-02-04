@@ -13,7 +13,6 @@
 	"setting.r_createmodeldecals"		"0"
 	"setting.r_decals"		"0"
 	"setting.r_lod_switch_scale"		"0.600000"
-	"setting.shader_lods_enable"		"1"
 	"setting.shadow_enable"		"0"
 	"setting.shadow_depth_dimen_min"		"0"
 	"setting.shadow_depth_upres_factor_max"		"0"
