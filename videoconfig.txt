@@ -7,8 +7,8 @@
 	"setting.cl_ragdoll_self_collision"		"1"
 	"setting.mat_forceaniso"		"1"
 	"setting.mat_mip_linear"		"0"
-	"setting.stream_memory"		"1000000"
-	"setting.mat_picmip"		"0"
+	"setting.stream_memory"		"160000"
+	"setting.mat_picmip"		"1"
 	"setting.particle_cpu_level"		"0"
 	"setting.r_createmodeldecals"		"0"
 	"setting.r_decals"		"0"
@@ -35,6 +35,6 @@
 	"setting.csm_cascade_res"		"512"
 	"setting.fadeDistScale"		"1.000000"
 	"setting.dvs_supersample_enable"		"0"
-	"setting.gamma"		"1.010714"
+	"setting.gamma"		"1.012295"
 	"setting.configversion"		"7"
 }
