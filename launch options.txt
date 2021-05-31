@@ -1,1 +1,1 @@
-+mat_compressedtextures 1 +cl_ragdoll_collide 0 +cl_fovScale 1.7
++mat_compressedtextures 1 +cl_ragdoll_collide 0 +cl_fovScale 1.7 +fps_max 190
