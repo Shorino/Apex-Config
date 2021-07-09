@@ -1,2 +1,25 @@
 
-previousgamestate.txt
+mem_level_0_pc.ekv
+mem_level_1_pc.ekv
+mem_level_2_pc.ekv
+mem_level_3_pc.ekv
+video_settings_changed_quit.cfg
+gpu_mem_level_ps5_retail.ekv
+gpu_mem_level_ps5.ekv
+gpu_mem_level_4_pc.ekv
+gpu_mem_level_3_pc.ekv
+gpu_mem_level_2_pc.ekv
+gpu_mem_level_1_pc.ekv
+gpu_mem_level_0_pc.ekv
+gpu_level_3_pc.ekv
+gpu_level_2_pc.ekv
+gpu_level_1_pc.ekv
+gpu_level_0_pc.ekv
+cpu_level_ps5_retail.ekv
+cpu_level_ps5.ekv
+cpu_level_3_pc.ekv
+cpu_level_2_pc.ekv
+cpu_level_1_pc.ekv
+cpu_level_0_pc.ekv
+config_default_pc.cfg
+client/st_data.bin
